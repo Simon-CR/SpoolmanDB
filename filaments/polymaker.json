@@ -2,13 +2,13 @@
     "manufacturer": "Polymaker",
     "filaments": [
       {
-        "name": "Fiberon\u2122 ASA-CF08 {color_name}",
-        "material": "ASA",
+        "name": "Fiberon\u2122 {color_name}",
+        "material": "ASA-CF08",
         "density": 1.09,
         "weights": [
           {
             "weight": 500.0,
-            "spool_weight": 190.0,
+            "spool_weight": 175.0,
             "spool_type": "cardboard"
           }
         ],
